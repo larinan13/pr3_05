@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://larinan13.github.io/pr4_05/sitemap.xml
+Sitemap: https://larinan13.github.io/pr3_05/sitemap.xml
